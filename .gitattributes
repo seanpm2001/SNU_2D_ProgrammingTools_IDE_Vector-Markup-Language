@@ -5,6 +5,13 @@
 # .gitattributes
 # and nothing else, no characters before, no characters after
 # Start of linguist script
+# Vector Markup Language (VML) source file
+*.htm linguist-detectable=true
+*.htm linguist-documentation=false
+*.htm linguist-language=Vector-Markup-Language
+*.html linguist-detectable=true
+*.html linguist-documentation=false
+*.html linguist-language=Vector-Markup-Language
 # HTML (HyperText Markup Language) document
 *.htm linguist-detectable=true
 *.htm linguist-documentation=false
@@ -161,10 +168,13 @@
 *.gif linguist-detectable=false
 *.gif linguist-documentation=false
 *.gif linguist-language=GIF
+
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+
+# File type: gitattributes file (*.gitattributes)
+# File version: 5 (2024, Friday, May 17th at 11:15 pm PST)
+# Line count (including blank lines and compiler line): 181
+
 # End of script
